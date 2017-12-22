@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_splash_size">18sp</dimen>
+    <dimen name="text_normal_size">12sp</dimen>
+    <dimen name="margin_5">5dip</dimen>
+    <dimen name="padding_5">5dip</dimen>
+    <dimen name="small_padding">2dip</dimen>
+    <dimen name="text_size">12sp</dimen>
+
+
+</resources>

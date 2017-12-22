@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroStream</string>
+    <string name="viseo">AndroStream</string>
+    <string name="profile">پروفایل</string>
+    <string name="category">دسته بندی</string>
+    <string name="download">دانلودها</string>
+    <string name="favorite">علاقه مندی ها</string>
+    <string name="more">بیشتر</string>
+    <string name="home">خانه</string>
+    <string name="todayvideo">ویدئوی روز</string>
+    <string name="todayvideo_list">مغز و اعصاب</string>
+</resources>
